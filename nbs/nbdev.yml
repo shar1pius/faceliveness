@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "faceliveness"
+  site-url: "https://shar1pius.github.io/faceliveness"
+  description: "A simple face liveness detection pipeline"
+  repo-branch: main
+  repo-url: "https://github.com/shar1pius/faceliveness"
