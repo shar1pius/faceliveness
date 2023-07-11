@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "data",
+    "section": "",
+    "text": "source\n\nliveness_dataset\n\n liveness_dataset (csvfile:str, smoothing=True, transform=None)\n\nInitialize self. See help(type(self)) for accurate signature.\n\n\n\n\nType\nDefault\nDetails\n\n\n\n\ncsvfile\nstr\n\ncontains image location with labels\n\n\nsmoothing\nbool\nTrue\nsmmothing facotr for the loss fn\n\n\ntransform\nNoneType\nNone\nimage transforms"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "faceliveness",
+    "section": "",
+    "text": "pip install faceliveness"
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "faceliveness",
+    "section": "",
+    "text": "pip install faceliveness"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "faceliveness",
+    "section": "How to use",
+    "text": "How to use\nThis library provides a simple pipeline to train deep learning model to detect liveness from images or videos.\nUse liveness_dataset for now."
+  }
+]
